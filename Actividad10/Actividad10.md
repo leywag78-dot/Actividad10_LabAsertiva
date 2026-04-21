@@ -1,6 +1,10 @@
 
 # Micropropuesta: Reducción de tiempos de reunión
 
+#### Nombre: Wagner Maximiliano Ley Monroy Carnet:202502811 
+#### Nombre: Cesar Emmanuel Cipriano López Carnet:202506978 
+#### Nombre: Daniel Estuardo Chicoj Bolaños Carnet:202500165
+
 ---
 
 ## 1. Problema
