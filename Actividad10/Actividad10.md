@@ -224,5 +224,5 @@ Gracias.”
 
 
 ![Captura1](Fotos/Captura1.png)
-![Captura2](Fotos/Captura2.png)
-![Captura3](Fotos/Captura3.png)
+![Captura2](Fotos/Captura2.jpeg)
+![Captura3](Fotos/Captura3.jpeg)
