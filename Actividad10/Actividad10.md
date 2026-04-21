@@ -221,3 +221,6 @@ Porque el tiempo no se recupera…
 pero sí se puede usar mejor.
 
 Gracias.”
+
+
+![Captura1](Fotos/Captura1.png)
